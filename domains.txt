@@ -1,6 +1,0 @@
-  web.whatsapp.com
-  whatsapp.com
-  *.whatsapp.com
-  *.whatsapp.net
-  *.fbcdn.net
-  *.facebook.com

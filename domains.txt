@@ -1,6 +1,4 @@
-web.whatsapp.com
-whatsapp.com
-*.whatsapp.com
-*.whatsapp.net
-*.fbcdn.net
-*.facebook.com
+facebook.com
+m.youtube.com
+youtube.com
+linkedin.com
